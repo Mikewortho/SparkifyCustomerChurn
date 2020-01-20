@@ -5,9 +5,9 @@ In this project, I use the customer behavioral data of a fictitious music app co
 ## Results
 This project makes use of 3 difference models to provide solution on the given data.
 
-*The Logistic Regression model gave an accuarcy of 0.8125 and F1 score of 0.766
-*The Decision Tree classifier model gave an accuracy of 0.75 and F1 score of 0.642
-*The Random Forest Classifier gave an accuracy of 0.87 and F1 score of 0.858 
+* The Logistic Regression model gave an accuarcy of 0.8125 and F1 score of 0.766
+* The Decision Tree classifier model gave an accuracy of 0.75 and F1 score of 0.642
+* The Random Forest Classifier gave an accuracy of 0.87 and F1 score of 0.858 
 
 ## Conclusion
 The Random Forest model achieved the best F1 score of 0.858. Subsequently the strongest feature turned out to be: Number of active days. This was something we expected from out exploratory data analysis and can be further seen in the associated blog post at the bottom of this README.
